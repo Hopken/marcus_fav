@@ -36,4 +36,3 @@ python3 -m http.server 8000
 You can reuse and modify this code. Add a license file if you want to specify permissions.
 
 ---
-If you want, I can replace the placeholder domain and social links with your real values and add per-project meta tags. Which would you like me to do next?
